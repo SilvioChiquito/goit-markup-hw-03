@@ -235,12 +235,11 @@ section .advantage-item .advantage-paragraph {
   margin: 0 var(--container-padding);
 }
 .What-do-we-do .container > h2{
-
-  height: 10vh;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-
+font-size: 36px;
+line-height: 1.1;
+text-align: center;
+letter-spacing: 0.03em;
+margin-bottom: 55.5px;
 }
 .What-do-we-do .container > ul {
   display: flex;
@@ -284,11 +283,12 @@ section .profession {
   margin: 0 var(--container-padding);
 }
 .our-team  .container > h2 {
-  height: 10vh;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  
+
+font-size: 36px;
+line-height: 1.1;
+text-align: center;
+letter-spacing: 0.03em;
+margin-bottom: 50px;
 
 }
 .our-team .container > ul{
